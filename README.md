@@ -130,7 +130,7 @@ MIT License
 
 ## Author
 
-Rachit Gupta
+Jiya Gupta
 ---
 
 *Note: This application uses pre-trained models and may need fine-tuning for optimal performance in a production environment.*
